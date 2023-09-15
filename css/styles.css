@@ -35,7 +35,7 @@ font-weight: 500;
 line-height: 1,50;
 letter-spacing: 0.03em;
 }
-.header-navigation .menu-item: :active{
+.header-navigation .menu-item:active{
 color: var(--OCEAN, #404BBF);
 }
 .header-address{
@@ -44,7 +44,7 @@ font-size: 16px;
 line-height: 24px; /* 150% */
 letter-spacing: 0.03em;
 }
-.header-address-menu .address-link: :active{
+.header-address-menu .address-link:active{
 color: var(--OCEAN, #404BBF);
 }
 .main{
@@ -68,7 +68,7 @@ line-height: 1.50;
 letter-spacing: 0.06em;
 cursor: pointer;
 }
-.main .main-btn: :hover{
+.main .main-btn:hover{
 background: var(--OCEAN, #404BBF);
 }
 .aside-item-title{
