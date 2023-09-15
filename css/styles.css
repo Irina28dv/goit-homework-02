@@ -84,6 +84,9 @@ font-size: 16px;
 line-height: 1.50;
 letter-spacing: 0.03em;
 }
+.section-team{
+    background: var(--CLOUD, #F4F4FD);
+}
 .team-title{
 color: var(--NAVY-BLUE, #2E2F42);
 font-size: 36px;
@@ -125,6 +128,9 @@ color: var(--SLATE, #434455);
 font-size: 16px;
 line-height: 1.50;
 letter-spacing: 0.03em;
+}
+.footer{
+background: var(--NAVY-BLUE, #2E2F42);
 }
 .footer-logo-iris{
 color: var(--IRIS, #4D5AE5);
