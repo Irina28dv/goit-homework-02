@@ -35,6 +35,19 @@ font-weight: 500;
 line-height: 1,5;
 letter-spacing: 0.02em;
 }
+.menu-link{
+color: var(--NAVY-BLUE, #2E2F42);
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+.menu-link:hover{
+color: #404bbf;
+}
+.menu-link:focus{
+    color: #404bbf;
+    }
 .header-navigation .menu-item:active{
 color: var(--OCEAN, #404BBF);
 }
