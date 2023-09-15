@@ -45,7 +45,7 @@ color: var(--OCEAN, #404BBF);
 color: var(--SLATE, #434455);
 font-style: normal;
 font-size: 16px;
-line-height: 1,5;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 .header-address-menu .address-link{
@@ -55,7 +55,7 @@ font-style: normal;
 line-height: 1.5;
 letter-spacing: 0.02em;
 }
-.header-address-menu .address-link:active{
+.header-address-menu .address-link:focus{
 color: var(--OCEAN, #404BBF);
 }
 .header-address-menu .address-link:hover{
@@ -85,9 +85,9 @@ cursor: pointer;
 .main .main-btn:hover{
 background: var(--OCEAN, #404BBF);
 }
-.main .main-btn:active{
-    background: var(--OCEAN, #404BBF);
-    }
+.main .main-btn:focus{
+background: var(--OCEAN, #404BBF);
+}
 .aside-item-title{
 color: var(--NAVY-BLUE, #2E2F42);
 font-size: 20px;
