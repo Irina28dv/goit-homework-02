@@ -117,9 +117,6 @@ letter-spacing: 0.02em;
 .section-team{
 background: var(--CLOUD, #F4F4FD);
 }
-.team-list{
-background: var(--WHITE, #FFF);
-}
 .team-item{
 background: var(--WHITE, #FFF); 
 }
